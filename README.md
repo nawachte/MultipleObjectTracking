@@ -2,6 +2,9 @@
 
 ### A real-time marine animal identification and tracking system, optimized for drone implementation to assist in marine science research.
 
+## Demo Video
+[Watch the demo video](https://drive.google.com/file/d/15uUg24fJXiKA2R697_WgJmQsJZaMLO8u/view?usp=sharing)
+
 ---
 
 ## **Table of Contents**
